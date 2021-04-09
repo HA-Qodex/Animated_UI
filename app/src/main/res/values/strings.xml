@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Crispy</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--<string-array name="hot_deal_title">
+        <item>Burger King</item>
+        <item>KFC</item>
+        <item>McDonald's</item>
+        <item>Pasta House</item>
+        <item>Healthy Kitchen</item>
+        <item>Biriyani Khor</item>
+        <item>Kabab ghor</item>
+        <item>Thai kitchen</item>
+        <item>Dosa Hut</item>
+        <item>Gorom Masala</item>
+    </string-array>-->
+
+    <string-array name="hotDealsubTitle">
+        <item>Beef cheese burger</item>
+        <item>8 pic fried chicken</item>
+        <item>Chocolate Donut</item>
+        <item>Chicken cheese pasta</item>
+        <item>Fried rice with chicken</item>
+        <item>Bashmoti Kacchi</item>
+        <item>Beef Kabab</item>
+        <item>Chicken thai soup</item>
+        <item>Pao Vagi</item>
+        <item>Chicken masala</item>
+    </string-array>
+
+    <string-array name="hotDealDiscount">
+        <item>50%</item>
+        <item>35%</item>
+        <item>45%</item>
+        <item>50%</item>
+        <item>50%</item>
+        <item>70%</item>
+        <item>30%</item>
+        <item>15%</item>
+        <item>75%</item>
+        <item>35%</item>
+
+    </string-array>
+
+    <string-array name="Rating">
+
+        <item>4.5</item>
+        <item>3.9</item>
+        <item>2.5</item>
+        <item>3.0</item>
+        <item>4.5</item>
+        <item>4.8</item>
+        <item>3.9</item>
+        <item>4.5</item>
+        <item>5</item>
+        <item>3.5</item>
+
+    </string-array>
+
+</resources>
